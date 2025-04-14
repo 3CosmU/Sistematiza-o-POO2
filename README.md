@@ -7,3 +7,5 @@ Requisitos
 
 Como Executar
 -Clone o repositório:
+-Abra o projeto em sua IDE
+-Execute o arquivo 'GerenciadorContatos.java'
