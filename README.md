@@ -1,4 +1,4 @@
-Sistematização de Gerenciador de Contatos
+Gerenciador de Contatos
 
 Este projeto é um gerenciador simples de contatos feito em Java, utilizando lista encadeada (ArrayList) e busca linear.
 
