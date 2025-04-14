@@ -5,7 +5,8 @@ Este projeto é um gerenciador simples de contatos feito em Java, utilizando lis
 Requisitos
 - IDE como Eclipse, IntelliJ ou VSCode
 
-Como Executar
--Clone o repositório:
--Abra o projeto em sua IDE
--Execute o arquivo 'GerenciadorContatos.java'
+Como Executar:
+
+-Clone o repositório 
+-Abra o projeto em sua IDE 
+-Execute o arquivo 'GerenciadorContatos.java' 
